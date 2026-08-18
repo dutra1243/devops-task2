@@ -1,6 +1,6 @@
-# Actividad 1 Devops: Docker
+# Actividad 2 Devops: Kubernetes
 
-Diseñar un API en Python que permita guardar
+Deployar un API en Python que permita guardar
 notas.
 Debe tener 3 endpoints:
 
